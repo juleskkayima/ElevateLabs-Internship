@@ -238,7 +238,6 @@ Computer Science Undergraduate | Data Science | Machine Learning | Artificial In
 
 - GitHub: https://github.com/juleskkayima
 - LinkedIn: https://linkedin.com/in/juleskitengek/
-- Email: kitengekiayima@gmail.com
 
 ---
 
